@@ -83,7 +83,7 @@ class _HomeScreenState extends State<HomeScreen> {
     },
     {
       "id": 20,
-      "name": "Galaxy S25 Ultra",
+      "name": "Galaxy S25 Ultra Phone",
       "in-stock": true,
       "price": 65000.00,
       "photo": "assets/images/s23.jpg",
