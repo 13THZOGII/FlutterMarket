@@ -37,7 +37,7 @@ class CategoriesScreen extends StatelessWidget {
                   padding: const EdgeInsets.symmetric(horizontal: 13),
                   child: Text(
                     AppLocalizations.of(context).getTranslate("categories"),
-                    style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
+                    style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold),
                   ),
                 ),
                 Expanded(
