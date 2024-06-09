@@ -1,16 +1,5 @@
-# finalyeni
+# FlutterMarket
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/13THZOGII/FlutterMarket/assets/132939884/6a029780-ede8-46e7-b8fb-b92689a3548e)
+![image](https://github.com/13THZOGII/FlutterMarket/assets/132939884/6864624f-e319-4fa3-8e9d-7208e603eaf6)
+![image](https://github.com/13THZOGII/FlutterMarket/assets/132939884/0d185f70-faa8-4afe-8925-5fc4aacf367b)
