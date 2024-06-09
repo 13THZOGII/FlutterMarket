@@ -44,7 +44,7 @@ class _ProductsScreenState extends State<ProductsScreen> {
     {
       "id": 4,
       "name": "Xiami X",
-      "in-stock": true,
+      "in-stock": false,
       "price": 15999.00,
       "photo":
           "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-mbp14-m2-silver-202303?wid=2000&hei=1536&fmt=jpeg&qlt=95&.v=1680103614090",
