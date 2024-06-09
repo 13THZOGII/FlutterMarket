@@ -21,7 +21,7 @@ class _ErrorScreenState extends State<ErrorScreen> {
         children: [
           const Text("404 - Not Found"),
           const Text(
-              "BAKIM ÇALIŞMASI YAPILMAKTADIR ! , \n ANLAYIŞINIZ İÇİN TEŞEKKÜR EDERİZ"),
+              "BAKIM ÇALIŞMASI YAPILMAKTADIR ! , \n\n\n ANLAYIŞINIZ İÇİN TEŞEKKÜR EDERİZ"),
           const Gap(20),
           IconButton(
             onPressed: () => GoRouter.of(context).pop(),
