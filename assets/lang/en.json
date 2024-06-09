@@ -1,0 +1,81 @@
+{
+    "home_title": "E-Commerce",
+    "home": "Home page",
+    "add_to_basket": "Add To Basket",
+    "products" : "Products",
+    "favorites" : "Favorites",
+    "cart" :"Shopping Cart",
+    "in-stock" : "In Stock",
+    "not-available" : "Not Available",
+    "added-to-cart" : "Product Added to Cart",
+    "remove-favorite" : "Remove from Favorite",
+    "remove-cart" : "Remove from Cart",
+    "cart-empty" : "No products added to cart",
+    "settings" : "Settings",
+    "go_to_cart": "Go to Cart",
+    "connection-error" : "Please control your İnternet connection.",
+    "login" : "Login",
+    "register" : "Register",
+    "email":"E - Mail",
+    "password":"Password",
+    "confirm_password":"Password Again",
+    "login_button": "Login",
+    "register_button":"Register",
+    "successfulregister":"Successful Register ! ",
+    "successful_login":"Successful Login !",
+    "login_failed" : "Incorrect Email or Password",
+    "pleaseusernamepasswords" : "Please enter a username and password.",
+    "succespassword":"Username is already taken. Please choose another username.",
+    "message" : "Message",
+    "ok" : "Ok",
+    "email_taken":"Please Enter E - Mail",
+    "passwords_do_not_match":"Passwords Do Not Match, Please Try Again",
+    "invalid_email":"Invalid E - Mail",
+    "please_fill_fields":"Please Fill Fields",
+    "forgot_password":"Forgot Password ?",
+    "categories":"Category",    
+    "Telefon":"Telephone",    
+    "Fotoğraf M":"Camera",    
+    "konsol":"Gamepad",
+    "Bilgisayar":"Computer",
+    "Monitör":"Monitor",
+    "Kulaklık":"Headset",
+    "Fare":"Mouse",
+    "Leptop":"Laptop",
+    "see-all":"See All",
+    "search_hint":"Search",
+    "location":"Location",
+    "contact":"Contact",
+    "dark_mode":"Day / Night Mode",
+    "english":"Translate to English",
+    "turkish":"Translate to Turkish",
+    "about":"About Us",
+    "password_length_warning":"Password Must Be At Least 6 Digits",
+    "registration_failed":"Böyle bir kayıt Mevcut",
+    "exit":"Log Out",
+    "location_info":"Location Info",
+    "location_perm":"Location Permission",
+    "camera_perm":"Camera Permission",
+    "req":"Request Authorization",
+    "stat":"Allways Status:",
+    "save":"Save",
+    "profile_page":"Profile Page",
+    "full_name":"Name Surname",
+    "change_picture":"Change Picture",
+    "nameerror":"Please enter your name before saving",
+    "validat":"Validation Error"
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+}

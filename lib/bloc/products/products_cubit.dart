@@ -1,0 +1,46 @@
+import 'package:flutter_bloc/flutter_bloc.dart';
+
+part 'products_state.dart';
+
+class ProductsCubit extends Cubit<ProductsState> {
+  ProductsCubit(super.initialState);
+
+  addToFavorites(Map<String, dynamic> product) {
+    var currentFavorites = state.favorites;
+    bool found = false;
+
+    for (int i = 0; i < currentFavorites.length; i++) {
+      if (currentFavorites[i]["id"] == product["id"]) {
+        found = true;
+        break;
+      }
+    }
+    if (found) {
+    } else {
+      currentFavorites.add(product);
+      final updatedState = ProductsState(
+        favorites: currentFavorites,
+      );
+      emit(updatedState);
+      print("eklendi");
+    }
+  }
+
+  bool isFavorite(int productID) {
+    return state.favorites.any((element) => element["id"] == productID);
+  }
+
+  removeFromFavorites(int productID) {
+    var currentFavorites = state.favorites;
+    currentFavorites.removeWhere((element) => element["id"] == productID);
+    final newState = ProductsState(favorites: currentFavorites);
+    emit(newState);
+  }
+
+  clearFavorites() {
+    final updatedState = ProductsState(
+      favorites: const [],
+    );
+    emit(updatedState);
+  }
+}
