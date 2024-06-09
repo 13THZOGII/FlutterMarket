@@ -75,9 +75,9 @@ class _HomeScreenState extends State<HomeScreen> {
     },
     {
       "id": 219,
-      "name": "Galaxy S25 Ultra",
+      "name": "Galaxy S23 Ultra Phone",
       "in-stock": true,
-      "price": 65000.00,
+      "price": 70000.00,
       "photo": "assets/images/s23.jpg",
       "route": "/product/17"
     },
@@ -85,7 +85,7 @@ class _HomeScreenState extends State<HomeScreen> {
       "id": 20,
       "name": "Galaxy S25 Ultra Phone",
       "in-stock": true,
-      "price": 65000.00,
+      "price": 70000.00,
       "photo": "assets/images/s23.jpg",
       "route": "/product/17"
     },
